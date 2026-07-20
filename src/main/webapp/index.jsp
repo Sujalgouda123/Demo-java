@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Shreeni — DevOps & Cloud Engineer</title>
+<title>Shreeni — MLops & Cloud Engineer</title>
 
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Space+Mono:wght@400;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
@@ -399,7 +399,7 @@
 
 <!-- NAV -->
 <nav>
-    <div class="logo">Shreenivasa Y G(9880672365) <span>.</span></div>
+    <div class="logo">ShreenivasaYG(9880672365) <span>.</span></div>
     <div class="nav-links">
         <a href="#projects">Work</a>
         <a href="#skills">Skills</a>
@@ -411,7 +411,7 @@
 <!-- HERO -->
 <div class="hero">
     <div class="hero-tag">DevOps &amp; Cloud Architect And AI  Engineer</div>
-    <h2>Building Devops <em>Pipelines</em><br>That Ship contineously</h2>
+    <h2>Building Devops <em>workflows</em><br>That Ship contineously</h2>
     <p class="hero-sub">
         I craft CI/CD infrastructure, automate cloud workflows, and bridge
         the gap between development velocity and operational resilience.
