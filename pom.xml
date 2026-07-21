@@ -9,7 +9,7 @@
     <properties>
         <!-- Java version: defaults to 17 (LTS, widely available).
              Override at build time with: mvn clean package -Djava.version=21 -->
-        <java.version>17</java.version>
+        <java.version>21</java.version>
         <maven.compiler.release>${java.version}</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
